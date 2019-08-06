@@ -25,7 +25,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
     text-align: center;
-    color: antiquewhite;
+    color: #faf6f1;
     background: #4aaaa5;
     float: left;
     width: 250px;
@@ -82,12 +82,4 @@
 
   }
 
-  #copyright {
-    display: table-cell;
-    vertical-align: bottom;
-    border: 1px solid #f00;
-    height: 100px;
-    width: 100px;
-    
-  }
   
